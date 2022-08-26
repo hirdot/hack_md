@@ -1,1 +1,23 @@
-hoge
+# bookmarks
+## monitor
+- analytics
+  - [datastudio](https://datastudio.google.com/u/0/reporting/b2e6076d-cae2-42c0-b3c0-4e4eb1785e1e/page/p_xxhibo61lc)
+  - [Redash](https://redash.paiza.jp/)
+- google
+  - [analytics](https://analytics.google.com/analytics/web/#/report-home/a42027263w221949181p210908231)
+  - [Tag Manager](https://tagmanager.google.com/#/home)
+  - [Optimize](https://optimize.google.com/optimize/home/#/accounts)
+- aws
+  - [CloudWatch](https://ap-northeast-1.console.aws.amazon.com/cloudwatch/home?region=ap-northeast-1#cw:dashboard=EC2)
+  - [SlowQuery](https://ap-northeast-1.console.aws.amazon.com/cloudwatch/home?region=ap-northeast-1#logsV2:logs-insights$3FqueryDetail$3D$257E$2528end$257E0$257Estart$257E-10800$257EtimeType$257E$2527RELATIVE$257Eunit$257E$2527seconds$257EeditorString$257E$2527fields*20*40timestamp*2c*20*40message*0a*7c*20filter*20*40message*20like*20*2f*28172.16.2.196*7c172.16.2.51*7c172.16.2.119*7c172.16.2.96*7c172.16.2.182*29*2f*20*23*20web**7cfb**306eEC2**30a4**30f3**30b9**30bf**30f3**30b9**306e**307f**3067**7d5e**308a**8fbc**307f*0a*7c*20sort*20*40timestamp*20desc*0a$257EisLiveTail$257Efalse$257EqueryId$257E$25277ae3e217-b76a-4975-aa5d-9a6de47fb8bf$257Esource$257E$2528$257E$2527*2faws*2frds*2finstance*2fpaiza-prd-rds-jp*2fslowquery$2529$2529$26tab$3Dlogs)
+- exceptions
+  - [Rollbar](https://rollbar.com/paiza/?sort=total&duration=24h&tz=Europe%2FMadrid&from=2021-08-30T12%3A00%3A00%2B02%3A00&to=2021-09-01T12%3A44%3A10%2B02%3A00&order=desc)
+  - [Makerel](https://mackerel.io/orgs/paiza/dashboard)
+- side kiq
+  - [Sidekiq sandbox](https://sandbox.paiza.jp/manage/sidekiq)
+  - [Sidekiq rails7](https://rails7.sandbox.paiza.jp/manage/sidekiq/history)
+- etc
+  - [CodeCov](https://app.codecov.io/gh/gi-no)
+  - [demandsphere](https://app.demandsphere.com/sites/7cd1ab6bbebb#from=2021-08-21&to=2021-09-03&granularity=daily&search_engine=google_japan)
+  - [Hotjar](https://insights.hotjar.com/sites/2224282/dashboard)
+- 
